@@ -13,3 +13,4 @@ npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
 # hardhat_example
 //Test from MBP
+//Test again from iMac
