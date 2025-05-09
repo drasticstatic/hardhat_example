@@ -1,13 +1,14 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/Users/christopherwilson/dappu/hardhat_example/contracts/MyContract.sol": {
-      "lastModificationDate": 1745632211560,
-      "contentHash": "ce1f838b296f9a3d3a50f2eddab2e436",
-      "sourceName": "contracts/MyContract.sol",
+    "/Users/christopher/dappu/hardhat_example/contracts/Lock.sol": {
+      "lastModificationDate": 1746760979811,
+      "contentHash": "7eee587c347fe6b1de50c96688cb9477",
+      "sourceName": "contracts/Lock.sol",
       "solcConfig": {
-        "version": "0.8.4",
+        "version": "0.8.28",
         "settings": {
+          "evmVersion": "paris",
           "optimizer": {
             "enabled": false,
             "runs": 200
@@ -30,7 +31,43 @@
       },
       "imports": [],
       "versionPragmas": [
-        "0.8.4"
+        "^0.8.28"
+      ],
+      "artifacts": [
+        "Lock"
+      ]
+    },
+    "/Users/christopher/dappu/hardhat_example/contracts/MyContract.sol": {
+      "lastModificationDate": 1746761319586,
+      "contentHash": "95106787a2aba531b9c1e6f97ff4461b",
+      "sourceName": "contracts/MyContract.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.28"
       ],
       "artifacts": [
         "MyContract"
