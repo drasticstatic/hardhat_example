@@ -5,7 +5,7 @@
 
 # hardhat_example
 
-![Status](https://img.shields.io/badge/Status-class_project-d9a441?style=flat-square)
+![Status](https://img.shields.io/badge/Status-class_project-800020?style=flat-square)
 ![For](https://img.shields.io/badge/For-Web3_learners-64748b?style=flat-square)
 
 <img src="assets/icons/map-pin.svg" width="16" height="16" alt=""> **You are here:** drasticstatic lab › DappU coursework › `hardhat_example` · public · `main` is the working branch
